@@ -11,4 +11,8 @@ Commands:
 /online Shows who is online at the moment
 
 The Server can broadcast messages to anybody connected to it.
-The Server must be open for others to connect.  Closing the server will cause all clients to close when they press ENTER (This is a bug I am fixing).
+The Server must be open for others to connect.  This means that you must start the server before trying to connect.  Closing the server will cause all clients to close when they press ENTER (This is a bug I am fixing).
+
+ALL files must be in the same directory for this program to work.
+
+User can change bind port of server in console.
